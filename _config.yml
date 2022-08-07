@@ -23,11 +23,12 @@ search: true
 
 # Build settings
 markdown: kramdown
-#remote_theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes
 
 repository: hassan-tariq-24.github.io/dsmlios.io
 
-theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
