@@ -1,7 +1,7 @@
 ---
 title: This is the First Post
 layout: single
-permalink: /hello-world-post
+permalink: /hello-world-post/
 published: true
 ---
 
