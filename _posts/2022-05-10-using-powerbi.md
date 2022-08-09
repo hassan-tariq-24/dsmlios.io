@@ -8,7 +8,18 @@ tags:
   - readability
   - standard
 ---
+I'm using PowerBI since couple of months now. I can assure the Productivity I have optained is really good. As of Magic QC ranking PowerBI is still the Number 1 tool for Bussiness Intelligence reporting and used all over the world. Enlisted below I'm going to share some prepositions why to use PowerBI for your bussness reporting pipelines.
 
-This post has been updated and should show a modified date if used in a layout.
+1) It helps connect, transform and analyze millions of rows of data. This helps in gaining the data from all over the world in any form or from any input stream of data. It helps in accessing data to create ETL procedures very easily.
 
-All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, for Mrs. Darling put her hand to her heart and cried, "Oh, why can't you remain like this for ever!" This was all that passed between them on the subject, but henceforth Wendy knew that she must grow up. You always know after you are two. Two is the beginning of the end.
+2) It really helps in building Relational Models to blend data from multiple sources. This provides the user with the holoistic power of creating table relationships and perform data modeling accross all data.
+
+3) Data Analysis Expressions (DAX) are also a great tool for the analysis of data. And this tool help us in analysizing complex calculations using these expressions.
+
+4) Interactive reports are also one of the great feature of PowerBI. It helps in analyzing data using Interactive Dashboards and reports.
+
+These are all the major reason why PowerBI is Industry leader of Bussiness analysis.
+
+I hope you like the post, I will surely expalin more complex features of this tool that can help geenrate more productivity for the reader.
+
+Cheers xx
